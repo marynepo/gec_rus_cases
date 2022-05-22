@@ -11,5 +11,5 @@
 
 Источники использованных скриптов:
 
-1) [Создание датасета] (https://github.com/yutkin/Lenta.Ru-News-Dataset)
-2) [Имплементация CopyNet] (https://github.com/adamklec/copynet) 
+1) [Создание датасета](https://github.com/yutkin/Lenta.Ru-News-Dataset)
+2) [Имплементация CopyNet](https://github.com/adamklec/copynet) 
