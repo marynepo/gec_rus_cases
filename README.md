@@ -11,3 +11,14 @@
 Источники использованных скриптов:
 
 1) [Создание датасета](https://github.com/yutkin/Lenta.Ru-News-Dataset)
+
+
+[Файлы с предобученной моделью](https://drive.google.com/drive/folders/1-0-AHZSeooAX9uNX0qPPu5bwup6Ys_-Y?usp=sharing)
+
+[Датасет со сгенерированными ошибками](https://www.kaggle.com/datasets/nmaria/noisy-news)
+
+[Датасет с реальными текстами](https://www.kaggle.com/datasets/nmaria/lentaru-20202021)
+
+[Датасет с предсказаниями модели на реальных текстах](https://www.kaggle.com/datasets/nmaria/real-res)
+
+[Датасет предсказаний на сгенерированных данных](https://www.kaggle.com/datasets/nmaria/t5-res)
